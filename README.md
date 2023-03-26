@@ -1,2 +1,5 @@
 # analise-critica-scrum
-Análise e crítica de Cases de Sucesso Scrum
+
+Análise e crítica sobre aplicação do framework Scrum - Case FBI
+
+
